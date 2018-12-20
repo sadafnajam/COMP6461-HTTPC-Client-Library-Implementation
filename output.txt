@@ -1,0 +1,19 @@
+{
+  "args": {}, 
+  "data": "{\"test\":\"data\", \"course\":\"comp6461\"}\n", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Connection": "close", 
+    "Content-Length": "37", 
+    "Content-Type": "application/json", 
+    "Host": "httpbin.org", 
+    "User-Agent": "httpc/1.0"
+  }, 
+  "json": {
+    "course": "comp6461", 
+    "test": "data"
+  }, 
+  "origin": "27.59.188.205", 
+  "url": "http://httpbin.org/post"
+}
